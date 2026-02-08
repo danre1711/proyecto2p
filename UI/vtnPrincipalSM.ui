@@ -194,11 +194,6 @@
       <string>FEMENINO</string>
      </property>
     </item>
-    <item>
-     <property name="text">
-      <string>PREFIERO NO DECIR</string>
-     </property>
-    </item>
    </widget>
    <widget class="QPushButton" name="btnAgregar">
     <property name="geometry">

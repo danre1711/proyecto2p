@@ -71,7 +71,6 @@ class Ui_vtnPrincipalSM(object):
         self.cbSexo.addItem("")
         self.cbSexo.addItem("")
         self.cbSexo.addItem("")
-        self.cbSexo.addItem("")
         self.cbSexo.setObjectName(u"cbSexo")
         self.cbSexo.setGeometry(QRect(240, 190, 161, 22))
         self.btnAgregar = QPushButton(self.centralwidget)
@@ -149,7 +148,6 @@ class Ui_vtnPrincipalSM(object):
         self.cbSexo.setItemText(0, QCoreApplication.translate("vtnPrincipalSM", u"SELECCIONAR", None))
         self.cbSexo.setItemText(1, QCoreApplication.translate("vtnPrincipalSM", u"MASCULINO", None))
         self.cbSexo.setItemText(2, QCoreApplication.translate("vtnPrincipalSM", u"FEMENINO", None))
-        self.cbSexo.setItemText(3, QCoreApplication.translate("vtnPrincipalSM", u"PREFIERO NO DECIR", None))
 
         self.btnAgregar.setText(QCoreApplication.translate("vtnPrincipalSM", u"AGREGAR", None))
         self.btnActualizar.setText(QCoreApplication.translate("vtnPrincipalSM", u"ACTUALIZAR", None))

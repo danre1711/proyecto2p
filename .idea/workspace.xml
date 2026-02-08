@@ -4,18 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ade4e6bb-0453-4f60-8dcd-c26ef21454c9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/PROYECTO 2P.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Datos/conexion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Datos/paciente_dao.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dominio/paciente.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Servicio/paciente.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    <list default="true" id="ade4e6bb-0453-4f60-8dcd-c26ef21454c9" name="Changes" comment="servicios medicos">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,8 +20,26 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Daniela Reyes" />
+        <option value="danre1711@gmail.com" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;danre1711&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/danre1711/proyecto2p.git&quot;,
+    &quot;accountId&quot;: &quot;a9e3b80a-9bed-45e4-baa6-d5a9192c68ae&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -194,6 +202,27 @@
       <option name="presentableId" value="Default" />
       <updated>1770323469146</updated>
     </task>
+    <task id="LOCAL-00001" summary="servicios medicos">
+      <option name="closed" value="true" />
+      <created>1770405440903</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1770405440903</updated>
+    </task>
+    <task id="LOCAL-00002" summary="servicios medicos">
+      <option name="closed" value="true" />
+      <created>1770513862220</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1770513862220</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="servicios medicos" />
+    <option name="LAST_COMMIT_MESSAGE" value="servicios medicos" />
   </component>
 </project>
