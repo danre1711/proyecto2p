@@ -1,6 +1,8 @@
 #---------------------
-#GRUPO 2 INTEGRANTES:
+#GRUPO2 INTEGRANTES:
 #DANIELA REYES OBANDO
+#SYLVIA PINTADO CORREA
+#JONATHAN ZAVALA ALCIVAR
 #---------------------
 
 import sys
